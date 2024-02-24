@@ -1,8 +1,10 @@
 header {
     background-color: black;
     padding: 10px 5px 0px 10px;
-
-
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 
 .logo {
@@ -60,6 +62,10 @@ header {
 
 body {
     background-color: whitesmoke;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 
 }
 
@@ -94,6 +100,10 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 
 .footp {
