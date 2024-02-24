@@ -1,0 +1,110 @@
+header {
+    background-color: black;
+    padding: 10px 5px 0px 10px;
+
+
+}
+
+.logo {
+    border-radius: 5%;
+    height: 42px;
+    display: flex;
+    justify-content: left;
+    align-items: baseline;
+}
+
+
+.navbar {
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: right;
+    align-items: baseline;
+}
+
+.homelink {
+    color: whitesmoke;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.aboutmelink {
+    color: whitesmoke;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.skillslink {
+    color: whitesmoke;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.goalslink {
+    color: whitesmoke;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.resume {
+    color: whitesmoke;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+body {
+    background-color: whitesmoke;
+
+}
+
+.image-container {
+    position: relative;
+    display: inline-block
+}
+
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    text-align: center;
+}
+
+.quote {
+    font-size: 20px;
+}
+
+
+footer {
+    background-color: black;
+    max-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footp {
+    margin: 10px;
+    color: whitesmoke;
+    font-size: large;
+}
+
+.linkimg {
+    max-height: 42px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
