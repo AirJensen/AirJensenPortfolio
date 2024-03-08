@@ -96,7 +96,77 @@ body {
 
 .skillsp {
     display: block;
+    max-width: 50%;
+    margin: 10px;
 
+}
+
+.experiencep {
+    display: block;
+    max-width: 50%;
+    margin: 10px;
+}
+
+.aboutmetitle {
+    display: flex;
+    justify-content: center;
+
+}
+
+.mephoto {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-height: 400px;
+    margin: 20px;
+
+
+}
+
+.aboutp {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+
+}
+
+.skillscontain {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.wordcloud {
+    max-height: 300px;
+    margin: 10px;
+}
+
+.hands {
+    max-height: 300px;
+    margin: 10px;
+}
+
+.goalshead {
+    display: block;
+}
+
+.goalsimg {
+    max-width: 50%;
+    margin: 10px;
+}
+
+.goals {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.resumetitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
